@@ -2,7 +2,7 @@
 - 👀 I’m interested in a Career in Artificial Intelligence
 - 🌱 I’m currently learning Data Science with AI
 -  I’m looking to collaborate on Live Projects for better understanding and gaining deep knowledge of the subject
-- 📫 U can mail me at mehathab6342@gmail.com 
+- 📫 Mail me at mehathab6342@gmail.com 
 
 <!---
 mehathab-a/mehathab-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
